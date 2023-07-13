@@ -1,5 +1,5 @@
 
-# Sumz Aplikasi Web Rangkum Article Dengan OpenAI GPT-4
+# Nextion Nextjs Fullstack Clone Notion
 
 Nextion adalah Aplikasi clone Notion dibuat dengan Nextjs, ORM Prisma, DB MySql (PlanetScale), Clerk, TipTap, Shadcn/UI.
 ## Fitur
