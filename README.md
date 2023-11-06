@@ -52,6 +52,3 @@ Start the server
 ```bash
   npm run dev
 ```
-
-
-## Youtube Tutorial (Coming soon)
